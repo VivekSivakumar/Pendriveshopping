@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [23/Aug/2016:09:16:07 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [23/Aug/2016:09:25:05 +0530] "GET /PendriveOnlineShopping/index.jsp HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [23/Aug/2016:09:25:58 +0530] "GET /PendriveOnlineShopping/index.jsp HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [23/Aug/2016:09:27:53 +0530] "GET /PendriveOnlineShopping/Home.jsp HTTP/1.1" 200 1772
+0:0:0:0:0:0:0:1 - - [23/Aug/2016:10:08:30 +0530] "GET /PendriveOnlineShopping/WEB-INF/views/Home.html HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [23/Aug/2016:10:08:30 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [23/Aug/2016:10:08:31 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [23/Aug/2016:10:08:35 +0530] "GET /PendriveOnlineShopping/WEB-INF/views/Home.html HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [23/Aug/2016:10:22:13 +0530] "GET /PendriveOnlineShopping/WEB-INF/views/Home.html HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [23/Aug/2016:10:22:16 +0530] "GET /PendriveOnlineShopping/WEB-INF/views/Home.html HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [23/Aug/2016:11:39:33 +0530] "GET /PendriveOnlineShopping/Home.jsp HTTP/1.1" 200 1772

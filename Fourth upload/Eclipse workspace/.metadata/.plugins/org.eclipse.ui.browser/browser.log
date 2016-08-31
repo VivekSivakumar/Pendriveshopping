@@ -1,0 +1,367 @@
+
+Aug 22, 2016 17:18:34.47 NEW SESSION
+Aug 22, 2016 17:18:34.47 1471866514468	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\quick_searchff@gmail.com
+Aug 22, 2016 17:18:34.47 1471866514468	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\sweetsearch@gmail.com
+Aug 22, 2016 17:18:34.47 1471866514469	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\deskCutv2@gmail.com
+Aug 22, 2016 17:18:36.32 console.error: adblockforyoutube: 
+Aug 22, 2016 17:18:36.32 Object
+Aug 22, 2016 17:18:36.32     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 22, 2016 17:18:36.32     - fileName = undefined
+Aug 22, 2016 17:18:36.32     - lineNumber = 16
+Aug 22, 2016 17:18:36.32     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 22, 2016 17:18:36.32     - toString = function () /* use strict */ toString
+Aug 22, 2016 17:18:36.33 console.error: adblockforyoutube: 
+Aug 22, 2016 17:18:36.33 Object
+Aug 22, 2016 17:18:36.33     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 22, 2016 17:18:36.33     - fileName = undefined
+Aug 22, 2016 17:18:36.33     - lineNumber = 16
+Aug 22, 2016 17:18:36.33     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 22, 2016 17:18:36.33     - toString = function () /* use strict */ toString
+
+Aug 23, 2016 14:12:09.45 NEW SESSION
+Aug 23, 2016 14:12:09.45 1471941729457	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\quick_searchff@gmail.com
+Aug 23, 2016 14:12:09.50 1471941729458	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\sweetsearch@gmail.com
+Aug 23, 2016 14:12:09.50 1471941729458	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\deskCutv2@gmail.com
+Aug 23, 2016 14:12:17.03 console.error: adblockforyoutube: 
+Aug 23, 2016 14:12:17.17 Object
+Aug 23, 2016 14:12:17.17     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 23, 2016 14:12:17.17     - fileName = undefined
+Aug 23, 2016 14:12:17.17     - lineNumber = 16
+Aug 23, 2016 14:12:17.17     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 23, 2016 14:12:17.17     - toString = function () /* use strict */ toString
+Aug 23, 2016 14:12:17.18 console.error: adblockforyoutube: 
+Aug 23, 2016 14:12:17.18 Object
+Aug 23, 2016 14:12:17.18     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 23, 2016 14:12:17.18     - fileName = undefined
+Aug 23, 2016 14:12:17.18     - lineNumber = 16
+Aug 23, 2016 14:12:17.18     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 23, 2016 14:12:17.18     - toString = function () /* use strict */ toString
+Aug 23, 2016 16:51:26.56 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Aug 23, 2016 16:51:26.73 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Aug 23, 2016 16:51:26.73 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15459:21
+
+Aug 23, 2016 17:17:25.29 NEW SESSION
+Aug 23, 2016 17:17:25.29 1471952845298	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\quick_searchff@gmail.com
+Aug 23, 2016 17:17:25.29 1471952845298	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\sweetsearch@gmail.com
+Aug 23, 2016 17:17:25.30 1471952845298	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\deskCutv2@gmail.com
+Aug 23, 2016 17:17:39.75 console.error: adblockforyoutube: 
+Aug 23, 2016 17:17:39.77 Object
+Aug 23, 2016 17:17:39.77     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 23, 2016 17:17:39.77     - fileName = undefined
+Aug 23, 2016 17:17:39.77     - lineNumber = 16
+Aug 23, 2016 17:17:39.77     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 23, 2016 17:17:39.77     - toString = function () /* use strict */ toString
+Aug 23, 2016 17:17:39.77 console.error: adblockforyoutube: 
+Aug 23, 2016 17:17:39.78 Object
+Aug 23, 2016 17:17:39.78     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 23, 2016 17:17:39.78     - fileName = undefined
+Aug 23, 2016 17:17:39.78     - lineNumber = 16
+Aug 23, 2016 17:17:39.78     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 23, 2016 17:17:39.78     - toString = function () /* use strict */ toString
+
+Aug 26, 2016 14:06:53.18 NEW SESSION
+Aug 26, 2016 14:06:53.18 1472200613185	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\quick_searchff@gmail.com
+Aug 26, 2016 14:06:53.41 1472200613185	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\sweetsearch@gmail.com
+Aug 26, 2016 14:06:53.41 1472200613185	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\deskCutv2@gmail.com
+Aug 26, 2016 14:06:55.50 console.error: adblockforyoutube: 
+Aug 26, 2016 14:06:55.50 Object
+Aug 26, 2016 14:06:55.50     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 26, 2016 14:06:55.50     - fileName = undefined
+Aug 26, 2016 14:06:55.50     - lineNumber = 16
+Aug 26, 2016 14:06:55.50     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 26, 2016 14:06:55.50     - toString = function () /* use strict */ toString
+Aug 26, 2016 14:06:55.50 console.error: adblockforyoutube: 
+Aug 26, 2016 14:06:55.50 Object
+Aug 26, 2016 14:06:55.50     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 26, 2016 14:06:55.50     - fileName = undefined
+Aug 26, 2016 14:06:55.50     - lineNumber = 16
+Aug 26, 2016 14:06:55.50     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 26, 2016 14:06:55.50     - toString = function () /* use strict */ toString
+
+Aug 27, 2016 10:51:39.75 NEW SESSION
+Aug 27, 2016 10:51:39.75 1472275299669	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\quick_searchff@gmail.com
+Aug 27, 2016 10:51:39.83 1472275299670	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\sweetsearch@gmail.com
+Aug 27, 2016 10:51:39.83 1472275299671	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\deskCutv2@gmail.com
+Aug 27, 2016 10:51:46.54 console.error: adblockforyoutube: 
+Aug 27, 2016 10:51:46.55 Object
+Aug 27, 2016 10:51:46.55     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 27, 2016 10:51:46.55     - fileName = undefined
+Aug 27, 2016 10:51:46.55     - lineNumber = 16
+Aug 27, 2016 10:51:46.55     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 27, 2016 10:51:46.55     - toString = function () /* use strict */ toString
+Aug 27, 2016 10:51:46.55 console.error: adblockforyoutube: 
+Aug 27, 2016 10:51:46.56 Object
+Aug 27, 2016 10:51:46.56     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 27, 2016 10:51:46.56     - fileName = undefined
+Aug 27, 2016 10:51:46.56     - lineNumber = 16
+Aug 27, 2016 10:51:46.56     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 27, 2016 10:51:46.56     - toString = function () /* use strict */ toString
+Aug 27, 2016 10:54:04.45 1472275444456	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\quick_searchff@gmail.com
+Aug 27, 2016 10:54:04.45 1472275444457	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\sweetsearch@gmail.com
+Aug 27, 2016 10:54:04.46 1472275444457	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\deskCutv2@gmail.com
+Aug 27, 2016 10:54:06.18 console.error: adblockforyoutube: 
+Aug 27, 2016 10:54:06.18 Object
+Aug 27, 2016 10:54:06.19     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 27, 2016 10:54:06.19     - fileName = undefined
+Aug 27, 2016 10:54:06.19     - lineNumber = 16
+Aug 27, 2016 10:54:06.19     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 27, 2016 10:54:06.19     - toString = function () /* use strict */ toString
+Aug 27, 2016 10:54:06.19 console.error: adblockforyoutube: 
+Aug 27, 2016 10:54:06.19 Object
+Aug 27, 2016 10:54:06.19     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 27, 2016 10:54:06.19     - fileName = undefined
+Aug 27, 2016 10:54:06.19     - lineNumber = 16
+Aug 27, 2016 10:54:06.19     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 27, 2016 10:54:06.19     - toString = function () /* use strict */ toString
+Aug 27, 2016 10:54:17.83 1472275457839	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\quick_searchff@gmail.com
+Aug 27, 2016 10:54:17.83 1472275457839	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\sweetsearch@gmail.com
+Aug 27, 2016 10:54:17.84 1472275457839	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\deskCutv2@gmail.com
+Aug 27, 2016 10:54:19.33 console.error: adblockforyoutube: 
+Aug 27, 2016 10:54:19.33 Object
+Aug 27, 2016 10:54:19.33     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 27, 2016 10:54:19.33     - fileName = undefined
+Aug 27, 2016 10:54:19.33     - lineNumber = 16
+Aug 27, 2016 10:54:19.33     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 27, 2016 10:54:19.33     - toString = function () /* use strict */ toString
+Aug 27, 2016 10:54:19.33 console.error: adblockforyoutube: 
+Aug 27, 2016 10:54:19.33 Object
+Aug 27, 2016 10:54:19.33     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 27, 2016 10:54:19.33     - fileName = undefined
+Aug 27, 2016 10:54:19.33     - lineNumber = 16
+Aug 27, 2016 10:54:19.33     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 27, 2016 10:54:19.33     - toString = function () /* use strict */ toString
+Aug 27, 2016 10:57:36.72 1472275656723	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\quick_searchff@gmail.com
+Aug 27, 2016 10:57:36.72 1472275656723	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\sweetsearch@gmail.com
+Aug 27, 2016 10:57:36.72 1472275656724	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\deskCutv2@gmail.com
+Aug 27, 2016 10:57:38.49 console.error: adblockforyoutube: 
+Aug 27, 2016 10:57:38.49 Object
+Aug 27, 2016 10:57:38.49     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 27, 2016 10:57:38.49     - fileName = undefined
+Aug 27, 2016 10:57:38.49     - lineNumber = 16
+Aug 27, 2016 10:57:38.49     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 27, 2016 10:57:38.49     - toString = function () /* use strict */ toString
+Aug 27, 2016 10:57:38.52 console.error: adblockforyoutube: 
+Aug 27, 2016 10:57:38.52 Object
+Aug 27, 2016 10:57:38.52     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 27, 2016 10:57:38.53     - fileName = undefined
+Aug 27, 2016 10:57:38.53     - lineNumber = 16
+Aug 27, 2016 10:57:38.53     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 27, 2016 10:57:38.53     - toString = function () /* use strict */ toString
+Aug 27, 2016 10:57:47.27 1472275667270	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\quick_searchff@gmail.com
+Aug 27, 2016 10:57:47.27 1472275667271	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\sweetsearch@gmail.com
+Aug 27, 2016 10:57:47.27 1472275667271	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\deskCutv2@gmail.com
+Aug 27, 2016 10:57:48.95 console.error: adblockforyoutube: 
+Aug 27, 2016 10:57:48.95 Object
+Aug 27, 2016 10:57:48.95     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 27, 2016 10:57:48.95     - fileName = undefined
+Aug 27, 2016 10:57:48.95     - lineNumber = 16
+Aug 27, 2016 10:57:48.95     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 27, 2016 10:57:48.95     - toString = function () /* use strict */ toString
+Aug 27, 2016 10:57:48.95 console.error: adblockforyoutube: 
+Aug 27, 2016 10:57:48.95 Object
+Aug 27, 2016 10:57:48.95     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 27, 2016 10:57:48.95     - fileName = undefined
+Aug 27, 2016 10:57:48.95     - lineNumber = 16
+Aug 27, 2016 10:57:48.95     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 27, 2016 10:57:48.95     - toString = function () /* use strict */ toString
+
+Aug 27, 2016 12:25:13.55 NEW SESSION
+Aug 27, 2016 12:25:13.55 1472280913555	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\quick_searchff@gmail.com
+Aug 27, 2016 12:25:13.88 1472280913556	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\sweetsearch@gmail.com
+Aug 27, 2016 12:25:13.88 1472280913580	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\deskCutv2@gmail.com
+Aug 27, 2016 12:25:19.42 console.error: adblockforyoutube: 
+Aug 27, 2016 12:25:19.44 Object
+Aug 27, 2016 12:25:19.44     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 27, 2016 12:25:19.44     - fileName = undefined
+Aug 27, 2016 12:25:19.44     - lineNumber = 16
+Aug 27, 2016 12:25:19.45     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 27, 2016 12:25:19.45     - toString = function () /* use strict */ toString
+Aug 27, 2016 12:25:19.45 console.error: adblockforyoutube: 
+Aug 27, 2016 12:25:19.45 Object
+Aug 27, 2016 12:25:19.45     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 27, 2016 12:25:19.45     - fileName = undefined
+Aug 27, 2016 12:25:19.45     - lineNumber = 16
+Aug 27, 2016 12:25:19.45     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 27, 2016 12:25:19.45     - toString = function () /* use strict */ toString
+Aug 27, 2016 12:30:54.42 1472281254425	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\quick_searchff@gmail.com
+Aug 27, 2016 12:30:54.42 1472281254425	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\sweetsearch@gmail.com
+Aug 27, 2016 12:30:54.42 1472281254426	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\deskCutv2@gmail.com
+Aug 27, 2016 12:30:55.92 console.error: adblockforyoutube: 
+Aug 27, 2016 12:30:55.92 Object
+Aug 27, 2016 12:30:55.92     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 27, 2016 12:30:55.92     - fileName = undefined
+Aug 27, 2016 12:30:55.93     - lineNumber = 16
+Aug 27, 2016 12:30:55.93     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 27, 2016 12:30:55.93     - toString = function () /* use strict */ toString
+Aug 27, 2016 12:30:55.93 console.error: adblockforyoutube: 
+Aug 27, 2016 12:30:55.93 Object
+Aug 27, 2016 12:30:55.93     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 27, 2016 12:30:55.93     - fileName = undefined
+Aug 27, 2016 12:30:55.93     - lineNumber = 16
+Aug 27, 2016 12:30:55.93     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 27, 2016 12:30:55.93     - toString = function () /* use strict */ toString
+
+Aug 28, 2016 18:07:19.07 NEW SESSION
+Aug 28, 2016 18:07:19.07 1472387839052	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\quick_searchff@gmail.com
+Aug 28, 2016 18:07:19.16 1472387839052	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\sweetsearch@gmail.com
+Aug 28, 2016 18:07:19.16 1472387839052	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\deskCutv2@gmail.com
+Aug 28, 2016 18:07:20.59 console.error: adblockforyoutube: 
+Aug 28, 2016 18:07:20.59 Object
+Aug 28, 2016 18:07:20.59     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 28, 2016 18:07:20.59     - fileName = undefined
+Aug 28, 2016 18:07:20.59     - lineNumber = 16
+Aug 28, 2016 18:07:20.59     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 28, 2016 18:07:20.59     - toString = function () /* use strict */ toString
+Aug 28, 2016 18:07:20.59 console.error: adblockforyoutube: 
+Aug 28, 2016 18:07:20.59 Object
+Aug 28, 2016 18:07:20.59     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 28, 2016 18:07:20.59     - fileName = undefined
+Aug 28, 2016 18:07:20.59     - lineNumber = 16
+Aug 28, 2016 18:07:20.59     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 28, 2016 18:07:20.59     - toString = function () /* use strict */ toString
+
+Aug 29, 2016 09:14:12.17 NEW SESSION
+Aug 29, 2016 09:14:12.17 1472442252175	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\quick_searchff@gmail.com
+Aug 29, 2016 09:14:12.47 1472442252175	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\sweetsearch@gmail.com
+Aug 29, 2016 09:14:12.47 1472442252175	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\deskCutv2@gmail.com
+Aug 29, 2016 09:14:15.22 console.error: adblockforyoutube: 
+Aug 29, 2016 09:14:15.23 Object
+Aug 29, 2016 09:14:15.23     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 29, 2016 09:14:15.23     - fileName = undefined
+Aug 29, 2016 09:14:15.23     - lineNumber = 16
+Aug 29, 2016 09:14:15.23     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 29, 2016 09:14:15.23     - toString = function () /* use strict */ toString
+Aug 29, 2016 09:14:15.23 console.error: adblockforyoutube: 
+Aug 29, 2016 09:14:15.23 Object
+Aug 29, 2016 09:14:15.23     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 29, 2016 09:14:15.23     - fileName = undefined
+Aug 29, 2016 09:14:15.23     - lineNumber = 16
+Aug 29, 2016 09:14:15.23     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 29, 2016 09:14:15.23     - toString = function () /* use strict */ toString
+
+Aug 29, 2016 13:53:52.43 NEW SESSION
+Aug 29, 2016 13:53:52.43 1472459032430	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\quick_searchff@gmail.com
+Aug 29, 2016 13:53:52.75 1472459032430	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\sweetsearch@gmail.com
+Aug 29, 2016 13:53:52.75 1472459032430	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\deskCutv2@gmail.com
+Aug 29, 2016 13:53:54.94 console.error: adblockforyoutube: 
+Aug 29, 2016 13:53:54.95 Object
+Aug 29, 2016 13:53:54.95     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 29, 2016 13:53:54.95     - fileName = undefined
+Aug 29, 2016 13:53:54.95     - lineNumber = 16
+Aug 29, 2016 13:53:54.95     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 29, 2016 13:53:54.95     - toString = function () /* use strict */ toString
+Aug 29, 2016 13:53:54.95 console.error: adblockforyoutube: 
+Aug 29, 2016 13:53:54.95 Object
+Aug 29, 2016 13:53:54.95     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 29, 2016 13:53:54.95     - fileName = undefined
+Aug 29, 2016 13:53:54.95     - lineNumber = 16
+Aug 29, 2016 13:53:54.95     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 29, 2016 13:53:54.95     - toString = function () /* use strict */ toString
+Aug 29, 2016 14:04:44.25 1472459684257	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\quick_searchff@gmail.com
+Aug 29, 2016 14:04:44.25 1472459684258	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\sweetsearch@gmail.com
+Aug 29, 2016 14:04:44.25 1472459684258	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\deskCutv2@gmail.com
+Aug 29, 2016 14:04:45.77 console.error: adblockforyoutube: 
+Aug 29, 2016 14:04:45.77 Object
+Aug 29, 2016 14:04:45.77     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 29, 2016 14:04:45.77     - fileName = undefined
+Aug 29, 2016 14:04:45.78     - lineNumber = 16
+Aug 29, 2016 14:04:45.78     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 29, 2016 14:04:45.78     - toString = function () /* use strict */ toString
+Aug 29, 2016 14:04:45.78 console.error: adblockforyoutube: 
+Aug 29, 2016 14:04:45.78 Object
+Aug 29, 2016 14:04:45.78     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 29, 2016 14:04:45.78     - fileName = undefined
+Aug 29, 2016 14:04:45.78     - lineNumber = 16
+Aug 29, 2016 14:04:45.78     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 29, 2016 14:04:45.78     - toString = function () /* use strict */ toString
+Aug 29, 2016 14:05:58.44 1472459758447	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\quick_searchff@gmail.com
+Aug 29, 2016 14:05:58.44 1472459758447	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\sweetsearch@gmail.com
+Aug 29, 2016 14:05:58.44 1472459758447	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\deskCutv2@gmail.com
+Aug 29, 2016 14:06:00.96 console.error: adblockforyoutube: 
+Aug 29, 2016 14:06:00.96 Object
+Aug 29, 2016 14:06:00.96     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 29, 2016 14:06:00.96     - fileName = undefined
+Aug 29, 2016 14:06:00.97     - lineNumber = 16
+Aug 29, 2016 14:06:00.97     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 29, 2016 14:06:00.97     - toString = function () /* use strict */ toString
+Aug 29, 2016 14:06:00.97 console.error: adblockforyoutube: 
+Aug 29, 2016 14:06:00.97 Object
+Aug 29, 2016 14:06:00.97     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 29, 2016 14:06:00.98     - fileName = undefined
+Aug 29, 2016 14:06:00.98     - lineNumber = 16
+Aug 29, 2016 14:06:00.98     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 29, 2016 14:06:00.99     - toString = function () /* use strict */ toString
+
+Aug 29, 2016 14:11:56.91 NEW SESSION
+Aug 29, 2016 14:11:56.91 1472460116915	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\quick_searchff@gmail.com
+Aug 29, 2016 14:11:56.91 1472460116915	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\sweetsearch@gmail.com
+Aug 29, 2016 14:11:56.91 1472460116916	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\deskCutv2@gmail.com
+Aug 29, 2016 14:11:58.45 console.error: adblockforyoutube: 
+Aug 29, 2016 14:11:58.45 Object
+Aug 29, 2016 14:11:58.45     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 29, 2016 14:11:58.45     - fileName = undefined
+Aug 29, 2016 14:11:58.45     - lineNumber = 16
+Aug 29, 2016 14:11:58.45     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 29, 2016 14:11:58.45     - toString = function () /* use strict */ toString
+Aug 29, 2016 14:11:58.45 console.error: adblockforyoutube: 
+Aug 29, 2016 14:11:58.45 Object
+Aug 29, 2016 14:11:58.45     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 29, 2016 14:11:58.45     - fileName = undefined
+Aug 29, 2016 14:11:58.45     - lineNumber = 16
+Aug 29, 2016 14:11:58.45     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 29, 2016 14:11:58.45     - toString = function () /* use strict */ toString
+Aug 29, 2016 14:15:33.10 1472460333102	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\quick_searchff@gmail.com
+Aug 29, 2016 14:15:33.10 1472460333102	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\sweetsearch@gmail.com
+Aug 29, 2016 14:15:33.10 1472460333102	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\deskCutv2@gmail.com
+Aug 29, 2016 14:15:34.67 console.error: adblockforyoutube: 
+Aug 29, 2016 14:15:34.67 Object
+Aug 29, 2016 14:15:34.67     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 29, 2016 14:15:34.67     - fileName = undefined
+Aug 29, 2016 14:15:34.67     - lineNumber = 16
+Aug 29, 2016 14:15:34.67     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 29, 2016 14:15:34.67     - toString = function () /* use strict */ toString
+Aug 29, 2016 14:15:34.67 console.error: adblockforyoutube: 
+Aug 29, 2016 14:15:34.67 Object
+Aug 29, 2016 14:15:34.67     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 29, 2016 14:15:34.67     - fileName = undefined
+Aug 29, 2016 14:15:34.67     - lineNumber = 16
+Aug 29, 2016 14:15:34.67     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 29, 2016 14:15:34.67     - toString = function () /* use strict */ toString
+
+Aug 29, 2016 14:22:36.81 NEW SESSION
+Aug 29, 2016 14:22:36.81 1472460756795	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\quick_searchff@gmail.com
+Aug 29, 2016 14:22:37.00 1472460756796	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\sweetsearch@gmail.com
+Aug 29, 2016 14:22:37.00 1472460756796	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\deskCutv2@gmail.com
+Aug 29, 2016 14:22:44.60 console.error: adblockforyoutube: 
+Aug 29, 2016 14:22:44.63 Object
+Aug 29, 2016 14:22:44.63     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 29, 2016 14:22:44.63     - fileName = undefined
+Aug 29, 2016 14:22:44.63     - lineNumber = 16
+Aug 29, 2016 14:22:44.63     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 29, 2016 14:22:44.63     - toString = function () /* use strict */ toString
+Aug 29, 2016 14:22:44.63 console.error: adblockforyoutube: 
+Aug 29, 2016 14:22:44.63 Object
+Aug 29, 2016 14:22:44.63     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 29, 2016 14:22:44.63     - fileName = undefined
+Aug 29, 2016 14:22:44.63     - lineNumber = 16
+Aug 29, 2016 14:22:44.63     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 29, 2016 14:22:44.63     - toString = function () /* use strict */ toString
+
+Aug 30, 2016 14:10:12.99 NEW SESSION
+Aug 30, 2016 14:10:12.99 1472546412988	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\quick_searchff@gmail.com
+Aug 30, 2016 14:10:13.21 1472546412988	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\sweetsearch@gmail.com
+Aug 30, 2016 14:10:13.21 1472546412989	addons.xpi	WARN	Ignoring missing add-on in C:\Users\vpnsivakumar\AppData\Roaming\Mozilla\Firefox\Profiles\v22bsxpq.default\extensions\deskCutv2@gmail.com
+Aug 30, 2016 14:10:17.30 console.error: adblockforyoutube: 
+Aug 30, 2016 14:10:17.30 Object
+Aug 30, 2016 14:10:17.30     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 30, 2016 14:10:17.30     - fileName = undefined
+Aug 30, 2016 14:10:17.30     - lineNumber = 16
+Aug 30, 2016 14:10:17.31     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 30, 2016 14:10:17.31     - toString = function () /* use strict */ toString
+Aug 30, 2016 14:10:17.31 console.error: adblockforyoutube: 
+Aug 30, 2016 14:10:17.31 Object
+Aug 30, 2016 14:10:17.31     - message = Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIXPCComponents_Utils.import]
+Aug 30, 2016 14:10:17.31     - fileName = undefined
+Aug 30, 2016 14:10:17.31     - lineNumber = 16
+Aug 30, 2016 14:10:17.31     - stack = @undefined:16:NaN|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/firefox/firefox.js:16:20|@resource://jid1-q4sg8pyhq8kghs-at-jetpack/lib/common.js:3:13|run@resource://gre/modules/commonjs/sdk/addon/runner.js:145:19|startup/</<@resource://gre/modules/commonjs/sdk/addon/runner.js:86:7|Handler.prototype.process@resource://gre/modules/Promise-backend.js:867:23|this.PromiseWalker.walkerLoop@resource://gre/modules/Promise-backend.js:746:7|this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:688:37|
+Aug 30, 2016 14:10:17.31     - toString = function () /* use strict */ toString
