@@ -1,0 +1,74 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+   xmlns:context="http://www.springframework.org/schema/context"
+   xmlns:security="http://www.springframework.org/schema/security"
+   xmlns:mvc="http://www.springframework.org/schema/mvc"
+   xmlns:tx="http://www.springframework.org/schema/tx"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="
+   http://www.springframework.org/schema/beans     
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+   http://www.springframework.org/schema/context 
+   http://www.springframework.org/schema/context/spring-context-3.0.xsd
+   http://www.springframework.org/schema/security 
+   http://www.springframework.org/schema/security/spring-security-4.0.xsd
+    http://www.springframework.org/schema/mvc
+   http://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd
+    http://www.springframework.org/schema/tx
+   http://www.springframework.org/schema/tx/spring-tx-3.0.xsd">
+  
+   <context:component-scan base-package="com.pendriveonlineshopping.*" />
+ 
+   <bean id="dataSource" class="org.apache.commons.dbcp2.BasicDataSource">
+        <property name="driverClassName" value="org.h2.Driver" />
+        <property name="url" value="jdbc:h2:tcp://localhost/~/test"/>
+        <property name="username" value="sa" />
+        <property name="password" value=""/>
+         
+    </bean>
+     
+    <bean id="sessionFactory" class="org.springframework.orm.hibernate4.LocalSessionFactoryBean" >
+        <property name="dataSource" ref="dataSource"/>
+        <property name="packagesToScan">
+            <list>
+                <value>com.pendriveonlineshopping</value>
+            </list>
+        </property>
+        <property name="hibernateProperties">
+            <props>
+                <prop key="hibernate.dialect">org.hibernate.dialect.H2Dialect</prop>
+                <prop key="hibernate.show_sql">true</prop>
+                <prop key="hibernate.hbm2ddl.auto">update</prop>
+            </props>
+        </property>       
+    </bean>
+    
+    <bean id="multipartResolver"
+    class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+   <property name="maxUploadSize" value="2000000" />
+  </bean>
+  <bean id="proValid" class="com.pendriveonlineshopping.validator.ProValid"></bean>
+ <tx:annotation-driven/>
+    <bean id="transactionManager"  class="org.springframework.orm.hibernate4.HibernateTransactionManager">
+        <property name="sessionFactory" ref="sessionFactory" />
+    </bean>
+    
+      <security:http auto-config="true">
+        <security:intercept-url pattern="/admin/**" access="permitAll" />
+        
+        <security:intercept-url pattern="/com.pendriveonlineshopping/**" access="hasRole({'ROLE_USER','ROLE_ADMIN'})"/>
+        <security:form-login login-page="/Signin" default-target-url="/" authentication-failure-url="/Signin?error"  username-parameter="username"  password-parameter="password" /> 
+     
+        <security:logout logout-success-url="/Signin?logout" />
+  <security:csrf disabled="true"/>
+    </security:http>
+  
+    <security:authentication-manager>
+        <security:authentication-provider>
+           <security:jdbc-user-service data-source-ref="dataSource"
+           authorities-by-username-query="SELECT u.name, r.role_name from userbean u,userrole r WHERE u.uid=r.roleid and u.name =?" 
+    users-by-username-query="SELECT name,password,enable from userbean WHERE name=?"/>
+               </security:authentication-provider>
+         </security:authentication-manager>
+    
+
+</beans>
